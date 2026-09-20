@@ -220,4 +220,4 @@ Offworld is offered as a full free version, with all features and updates includ
 Ready to take control of the skies? Download Offworld now and embark on your aerial adventure!
 
 ---
-**Last updated:** 2026-09-20 00:35:40 UTC
+**Last updated:** 2026-09-20 05:39:12 UTC
